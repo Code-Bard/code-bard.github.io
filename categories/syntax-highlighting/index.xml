@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax Highlighting on 与筠同梦的博客 | 嘻嘻哈哈，只为娱乐</title>
-    <link>https://code-bard.github.io.com/categories/syntax-highlighting/</link>
+    <link>https://code-bard.github.io/categories/syntax-highlighting/</link>
     <description>Recent content in Syntax Highlighting on 与筠同梦的博客 | 嘻嘻哈哈，只为娱乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 30 Aug 2011 16:01:23 +0800</lastBuildDate>
     
-	<atom:link href="https://code-bard.github.io.com/categories/syntax-highlighting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://code-bard.github.io/categories/syntax-highlighting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://code-bard.github.io.com/post/syntax-highlighting/</link>
+      <link>https://code-bard.github.io/post/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://code-bard.github.io.com/post/syntax-highlighting/</guid>
+      <guid>https://code-bard.github.io/post/syntax-highlighting/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;helloWorld&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
   &lt;span class=&#34;nx&#34;&gt;alert&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
