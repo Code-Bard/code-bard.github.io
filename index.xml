@@ -6,7 +6,7 @@
     <description>Recent content on 与筠同梦的博客 | 嘻嘻哈哈，只为娱乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Feb 2020 20:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 21:12:27 +0800</lastBuildDate>
     
 	<atom:link href="https://code-bard.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,23 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Python学习笔记1</title>
+      <link>https://code-bard.github.io/post/python_ch1/</link>
+      <pubDate>Mon, 23 Mar 2020 21:12:27 +0800</pubDate>
+      
+      <guid>https://code-bard.github.io/post/python_ch1/</guid>
+      <description>题目：输入三角形的三边，输出周长和面积。
+import math #内置模块 a = float(input(&amp;ldquo;输入边长a：&amp;quot;))
+b = float(input(&amp;ldquo;输入边长b：&amp;quot;))
+c = float(input(&amp;ldquo;输入边长c：&amp;quot;))
+h = (a+ b+ c)/2
+s = math.sqrt(h*(h-a)*(h-b)*(h-c))
+l = a+ b+ c
+print(&amp;ldquo;三角形的周长：&amp;quot;，l)
+print(&amp;ldquo;三角形的面积：&amp;quot;，s)</description>
     </item>
     
     <item>
